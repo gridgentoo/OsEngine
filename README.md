@@ -1,3 +1,7 @@
+# OsEngine
+
+![oslogo250](https://cloud.githubusercontent.com/assets/26077466/23395381/5545b688-fd9f-11e6-8db9-c8e8944a8cc2.png)
+
 # Архитектура [OsEngine] & автоматизации торговли на бирже.
 https://drive.google.com/drive/folders/1FA7I1rVR9tt-RobxoRGPnM7gPgNIhlsy
 
@@ -19,10 +23,6 @@ Geode был создан компанией Gemstone Systems в 2002 году �
 
 Архитектура [Geode] & Реверс инжениринг движка обработки финансовых транзакций
 https://drive.google.com/drive/folders/1tetUejh8WzscoCbCHPsdILM6desm5GzX
-
-# OsEngine
-
-![oslogo250](https://cloud.githubusercontent.com/assets/26077466/23395381/5545b688-fd9f-11e6-8db9-c8e8944a8cc2.png)
 
 # Open Source Algo Trading Platform
 
